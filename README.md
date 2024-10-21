@@ -24,23 +24,20 @@ The dataset contains information on 98 football teams with 20 features, includin
 The notebook contains steps to load, clean, and analyze the football statistics data.
 
 Key analyses in the notebook include:
-
-**-Team performance comparison (wins, goals, etc.)
-**-Correlation analysis between expected goals (xG) and actual goals scored
-**-Visualizations of top scorers, defensive records, and attendance trends
+- **Team performance comparison** (wins, goals, etc.)
+- **Correlation analysis** between expected goals (xG) and actual goals scored
+- **Visualizations** of top scorers, defensive records, and attendance trends
 
 ## Visualizations
 
-The project uses matplotlib and seaborn to create visualizations such as:
-
-**Bar plots of team performance (wins, goals)
-**Scatter plots comparing xG and actual goals
-**Heatmaps to analyze correlations between different metrics
-
+The project uses `matplotlib` and `seaborn` to create visualizations such as:
+- **Bar plots** of team performance (wins, goals)
+- **Scatter plots** comparing xG and actual goals
+- **Heatmaps** to analyze correlations between different metrics
 
 ## Features
 
-**Team Performance Analysis: Overview of wins, goals, and defensive stats.
-**Expected Goals (xG) Analysis: Comparison between expected and actual performance.
-**Attendance Insights: Analysis of crowd attendance and its relation to team performance.
-**Top Scorers: Highlights the top scorers for each team.
+- **Team Performance Analysis**: Overview of wins, goals, and defensive stats.
+- **Expected Goals (xG) Analysis**: Comparison between expected and actual performance.
+- **Attendance Insights**: Analysis of crowd attendance and its relation to team performance.
+- **Top Scorers**: Highlights the top scorers for each team.
